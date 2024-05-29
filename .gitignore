@@ -1,0 +1,29 @@
+# Ignorar arquivos temporários do Unity
+Temp/
+Library/
+obj/
+Build/
+
+# Ignorar arquivos de build e logs
+*.apk
+*.unitypackage
+*.log
+
+# Ignorar arquivos específicos do macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignorar arquivos de configuração do Rider IDE
+.idea/
+*.sln.iml
+
+# Ignorar arquivos de compilação do Visual Studio
+*.csproj
+*.sln
+*.csproj.user
+
+# Ignorar arquivos de compilação do Rider IDE
+*.csproj
+*.sln
+*.csproj.user
