@@ -1,0 +1,63 @@
+skeleton.png
+	size: 932, 732
+	filter: Linear, Linear
+	pma: true
+Cape
+	bounds: 0, 114, 370, 327
+	offsets: 0, 152, 550, 700
+CrouchLeather
+	bounds: 353, 652, 80, 91
+	offsets: 266, 171, 550, 700
+	rotate: 90
+FaceCover
+	bounds: 727, 638, 94, 95
+	offsets: 226, 482, 550, 700
+	rotate: 90
+LeftArm
+	bounds: 134, 441, 211, 321
+	offsets: 246, 239, 550, 700
+	rotate: 90
+LeftFoot
+	bounds: 72, 665, 100, 67
+	offsets: 347, 20, 550, 700
+LeftL
+	bounds: 172, 659, 73, 84
+	offsets: 316, 178, 550, 700
+	rotate: 90
+LeftLeg
+	bounds: 444, 652, 80, 175
+	offsets: 328, 47, 550, 700
+	rotate: 90
+LeftShoulder
+	bounds: 0, 679, 72, 53
+	offsets: 237, 457, 550, 700
+RightArm
+	bounds: 370, 0, 413, 337
+	offsets: 124, 92, 550, 700
+RightFoot
+	bounds: 256, 655, 77, 97
+	offsets: 93, 3, 550, 700
+	rotate: 90
+RightL
+	bounds: 619, 647, 85, 108
+	offsets: 184, 151, 550, 700
+	rotate: 90
+RightLeg
+	bounds: 0, 546, 134, 119
+	offsets: 102, 72, 550, 700
+RightShoulder
+	bounds: 822, 636, 96, 100
+	offsets: 153, 406, 550, 700
+	rotate: 90
+Torso
+	bounds: 455, 337, 299, 474
+	offsets: 70, 210, 550, 700
+	rotate: 90
+
+skeleton_2.png
+	size: 852, 648
+	filter: Linear, Linear
+	pma: true
+slash
+	bounds: 0, 0, 852, 648
+	offsets: 121, 39, 1000, 700
